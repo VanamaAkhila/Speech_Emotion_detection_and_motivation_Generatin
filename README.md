@@ -1,0 +1,1 @@
+# Speech_Emotion_detection_and_motivation_Generatin
